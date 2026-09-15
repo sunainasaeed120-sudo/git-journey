@@ -1,1 +1,2 @@
-Git Day 2 practise
+Git Day 2 
+Today i am doing git commits
